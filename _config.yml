@@ -1,8 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Marko
+subtitle: Križmančić
+email: marko.krizmancic@gmail.com
+email2: marko.krizmancic@fer.hr
+description: This is a description in _config.yml where I will <br> write an awesome description of myself.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -10,26 +11,28 @@ street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
 zip_code: 55555
-country: United States of America
+country: Croatia
 phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/mkrizmancic
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: http://www.linkedin.com/in/marko-krizmancic
+  Twitter: 
   Facebook:
   Slack:
+  ResearchGate: https://www.researchgate.net/profile/Marko_Krizmancic
+  Google-Scholar: https://scholar.google.hr/citations?user=tRrWVnUAAAAJ
+  ORCID: https://orcid.org/0000-0002-1055-0773
 
 # build settings
 markdown: kramdown

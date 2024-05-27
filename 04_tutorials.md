@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Elements
+title: Tutorials
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
+
+<!-- TODO: valjda isto treba biti landing page -->
 
 <!-- Main -->
 <div id="main" class="alt">
